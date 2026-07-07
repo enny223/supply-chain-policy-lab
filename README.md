@@ -1,7 +1,7 @@
 # Supply Chain Policy Lab
 
 A causal inference and simulation framework for evaluating inventory policy
-changes in retail supply chains — built on real Walmart sales data from the
+changes in retail supply chains, built on real Walmart sales data from the
 M5 Forecasting Competition.
 
 ---
